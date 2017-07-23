@@ -23,5 +23,12 @@
 
   请访问https://loswkl.xyz/archives/22 查看更多详情！
   
+## 0.0.1.4 基础版
+  
+  更新 保存逻辑 
+  
+  优化 关于页面
+  
+  请访问https://loswkl.xyz/archives/22 查看更多详情！
   
   如有任何问题请联系：loswkl@qq.com
