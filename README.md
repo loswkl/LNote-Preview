@@ -7,13 +7,13 @@
   
 ## 531-621 框架预览版 
 
-  请访问https://loswkl.xyz/archives/22 查看更多详情！
+  请访问http://lnote.loswkl.win/ 查看更多详情！
   
 ## 0.0.1.0-0.0.1.2 基础版
 
   实现 笔记存储 笔记删除 笔记新建 笔记修改 重置代码 短信发送
 
-  请访问https://loswkl.xyz/archives/22 查看更多详情！
+  请访问http://lnote.loswkl.win/ 查看更多详情！
   
 ## 0.0.1.3 基础版
 
@@ -21,7 +21,7 @@
 
   优化 用户界面
 
-  请访问https://loswkl.xyz/archives/22 查看更多详情！
+  请访问http://lnote.loswkl.win/ 查看更多详情！
   
 ## 0.0.1.4 基础版
   
@@ -29,6 +29,6 @@
   
   优化 关于页面
   
-  请访问https://loswkl.xyz/archives/22 查看更多详情！
+  请访问http://lnote.loswkl.win/ 查看更多详情！
   
   如有任何问题请联系：loswkl@qq.com
