@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/bl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#BA55D3"
+        android:orientation="vertical"
+        tools:context="com.example.loswkl.lnote.Note_Hi">
+
+    <LinearLayout
+            android:layout_width="368dp"
+            android:layout_height="wrap_content"
+            android:gravity="center" tools:layout_editor_absoluteY="0dp" tools:layout_editor_absoluteX="8dp">
+
+
+        <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="L&apos;Note"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#ffffff"/>
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp" tools:layout_editor_absoluteY="8dp" tools:layout_editor_absoluteX="8dp">
+
+
+        <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="34dp"
+                android:text="基础版"
+                android:textColor="#ffffff"/>
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
